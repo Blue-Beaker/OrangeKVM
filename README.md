@@ -1,6 +1,7 @@
 # OrangeKVM
 An IPKVM board for OrangePi Zero.  
 以香橙派zero为核心的IPKVM模块，可固定于PCIE插槽.  
+https://oshwhub.com/blue_beaker/orangepi-ipkvm
   
   
 ### Features:  
